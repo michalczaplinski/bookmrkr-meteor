@@ -1,5 +1,5 @@
-import BookmarkList from 'BookmarkList';
-import BookmarkAdder from 'BookmarkAdder';
+import BookmarkList from './BookmarkList';
+import BookmarkAdder from './BookmarkAdder';
 
 var Grid = React.createClass( {
 
