@@ -1,3 +1,3 @@
 'use strict';
 
-System.import('bookmrkr-meteor');
+System.import('/bookmrkr-meteor');

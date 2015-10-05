@@ -1,4 +1,4 @@
-import BookmrkrApp from 'client/BookmrkrApp';
+import BookmrkrApp from '/client/BookmrkrApp';
 
 if (Meteor.isClient) {
 
